@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**OscarSanchez24D/OscarSanchez24D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+current_projects = [
+    {
+        "name": "🧀 CheeseTracker",
+        "description": "A Python app to track my favorite cheese... I mean, learning progress!",
+        "status": "In Development",
+        "tech": ["Python", "Django", "PostgreSQL"]
+    },
+    {
+        "name": "🐁 MouseMaze Solver",
+        "description": "AI-powered pathfinding algorithms",
+        "status": "Planning Phase", 
+        "tech": ["Python", "AI/ML", "Algorithms"]
+    },
+    {
+        "name": "🌱 GreenCode",
+        "description": "Sustainable coding practices tracker",
+        "status": "Beta Testing",
+        "tech": ["Python", "Flask", "MySQL"]
+    }
+]
