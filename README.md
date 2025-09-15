@@ -147,21 +147,21 @@ current_projects = [
 <table>
 <tr>
 <td align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
   <br>
   <strong>📧 Email</strong>
   <br>
   <a href="mailto:oscarsanchezd24@gmail.com">oscarsanchezd24@gmail.com</a>
 </td>
 <td align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   <br>
   <strong>💼 LinkedIn</strong>
   <br>
   <a href="https://www.linkedin.com/in/oscar-sanchez-b29195369/">Connect with me!</a>
 </td>
 <td align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
   <br>
   <strong>📱 Phone</strong>
   <br>
