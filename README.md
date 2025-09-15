@@ -25,7 +25,7 @@ class Oscar:
         self.location = "Chile 🇨🇱"
         self.university = "Universidad Santo Tomás"
         self.favorite_language = "Python 🐍"
-        self.phone = "+56956348307"
+        self.phone = "+56 9 5634 8307"
         self.email = "oscarsanchezd24@gmail.com"
         
     def get_motto(self):
@@ -46,7 +46,7 @@ print(f"Motto: {oscar.get_motto()}")
 ### 🌟 Quick Facts About This Mouse
 - 🎓 **Graduate** from Universidad Santo Tomás
 - 🐍 **Python Enthusiast** - It's my programming language of choice!
-- 📞 **Contact**: +56956348307
+- 📞 **Contact**: +56 9 5634 8307
 - 📧 **Email**: oscarsanchezd24@gmail.com
 - 🎂 **Born**: September 30, 2001
 - 🏠 **From**: Beautiful Chile
@@ -89,14 +89,14 @@ print(f"Motto: {oscar.get_motto()}")
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=0d1117&border_color=228B22&hide_border=false&include_all_commits=true&count_private=true&custom_title=🐭%20Oscar's%20GitHub%20Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=oscar-sanchez-dev&show_icons=true&theme=dark&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=0d1117&border_color=228B22&hide_border=false&include_all_commits=true&count_private=true&custom_title=🐭%20Oscar's%20GitHub%20Stats" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117&border_color=228B22&hide_border=false&langs_count=8&custom_title=🧀%20Most%20Used%20Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-sanchez-dev&layout=compact&theme=dark&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117&border_color=228B22&hide_border=false&langs_count=8&custom_title=🧀%20Most%20Used%20Languages" width="48%" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark&background=0d1117&border=228B22&stroke=00FF7F&ring=00FF7F&fire=FFA500&currStreakNum=00FF7F&sideNums=00FF7F&currStreakLabel=228B22&sideLabels=228B22&dates=7CFC00" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=oscar-sanchez-dev&theme=dark&background=0d1117&border=228B22&stroke=00FF7F&ring=00FF7F&fire=FFA500&currStreakNum=00FF7F&sideNums=00FF7F&currStreakLabel=228B22&sideLabels=228B22&dates=7CFC00" width="70%"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ print(f"Motto: {oscar.get_motto()}")
 ## 🏆 Achievements (Cheese Awards)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Followers,Commits,Repositories&rank=SSS,SS,S,AAA,AA,A,B,C" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=oscar-sanchez-dev&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4&title=Stars,Followers,Commits,Repositories&rank=SSS,SS,S,AAA,AA,A,B,C" width="90%"/>
 </div>
 
 ---
@@ -116,22 +116,22 @@ print(f"Motto: {oscar.get_motto()}")
 ```python
 current_projects = [
     {
-        "name": "🧀 CheeseTracker",
-        "description": "A Python app to track my favorite cheese... I mean, learning progress!",
-        "status": "In Development",
-        "tech": ["Python", "Django", "PostgreSQL"]
+        "name": "🐭 Personal Portfolio",
+        "description": "Mi portafolio personal desarrollado con Python y tecnologías web",
+        "status": "En Desarrollo",
+        "tech": ["Python", "Django", "PostgreSQL", "HTML/CSS", "JavaScript"]
     },
     {
-        "name": "🐁 MouseMaze Solver",
-        "description": "AI-powered pathfinding algorithms",
-        "status": "Planning Phase", 
-        "tech": ["Python", "AI/ML", "Algorithms"]
+        "name": "📚 Learning Projects",
+        "description": "Proyectos de aprendizaje y práctica en Python",
+        "status": "Activo", 
+        "tech": ["Python", "Data Science", "Web Development"]
     },
     {
-        "name": "🌱 GreenCode",
-        "description": "Sustainable coding practices tracker",
-        "status": "Beta Testing",
-        "tech": ["Python", "Flask", "MySQL"]
+        "name": "🔧 Open Source Contributions",
+        "description": "Contribuciones a proyectos de código abierto",
+        "status": "En Progreso",
+        "tech": ["Python", "Git", "Community"]
     }
 ]
 ```
@@ -165,7 +165,7 @@ current_projects = [
   <br>
   <strong>📱 Phone</strong>
   <br>
-  +56956348307
+  +56 9 5634 8307
 </td>
 </tr>
 </table>
@@ -212,7 +212,7 @@ current_projects = [
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Burrow%20Visitors&color=brightgreen&style=for-the-badge&labelColor=228B22" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=oscar-sanchez-dev&label=Burrow%20Visitors&color=brightgreen&style=for-the-badge&labelColor=228B22" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Status-Coding%20%26%20Creating-brightgreen?style=for-the-badge&labelColor=228B22" alt="Status"/>
 <img src="https://img.shields.io/badge/Favorite%20Animal-🐭%20Mouse-brightgreen?style=for-the-badge&labelColor=228B22" alt="Favorite Animal"/>
 
